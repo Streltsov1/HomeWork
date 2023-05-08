@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance.Polymorphism", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPERATOR_OVERLOADING", "OPERATOR_OVERLOADING\OPERATOR_OVERLOADING.csproj", "{B01E22A9-2763-4412-9705-2533F129B9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Collections", "Generic Collections\Generic Collections.csproj", "{0B3427B8-2CC4-4815-A87B-680484A455FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic Collections", "Generic Collections\Generic Collections.csproj", "{0B3427B8-2CC4-4815-A87B-680484A455FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{3B3A8F4B-76D7-4A8D-96D1-A5E28CB91E69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0B3427B8-2CC4-4815-A87B-680484A455FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B3427B8-2CC4-4815-A87B-680484A455FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B3427B8-2CC4-4815-A87B-680484A455FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3A8F4B-76D7-4A8D-96D1-A5E28CB91E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A8F4B-76D7-4A8D-96D1-A5E28CB91E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A8F4B-76D7-4A8D-96D1-A5E28CB91E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A8F4B-76D7-4A8D-96D1-A5E28CB91E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
